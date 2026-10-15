@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 Trush Patel:
 Hi there! 👋 I'm Trush, a 3rd-year IT student passionate about Competitive Programming, Data Structures & Algorithms, and building scalable Full Stack Web Applications using React and Spring Boot.
 
 
